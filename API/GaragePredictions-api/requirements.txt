@@ -1,0 +1,14 @@
+pymongo
+bcrypt
+flask
+flask_cors
+flask-login
+flask_mail
+sklearn
+pandas
+numpy
+bs4
+python-dotenv
+gunicorn
+Werkzeug~=2.0.0
+requests
